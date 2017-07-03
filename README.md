@@ -1,4 +1,4 @@
-# Ten Day Weather Report
+# Ten Day Weather Report (tdwreport)
 
 Simple Python script that returns 10-day weather report for provided location.
 
